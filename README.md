@@ -1,2 +1,2 @@
-# MyAndroidProject
-my android base project
+# 個人的なAndroid Base Project
+いろいろなプロジェクトを作る時に使える様に、ある程度共通的に作ったクラスやウィジェットをおいておくプロジェクト
